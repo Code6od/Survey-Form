@@ -1,0 +1,49 @@
+﻿h1, #description {
+    margin: 1em auto;
+    text-align: center;
+}
+
+#title {
+    font-family: sans-serif
+}
+
+#description {
+    margin-top: -30px;
+    margin-bottom: 50px
+}
+
+#name, #email, #number, #dropdown, #industry-trends, #needs-improvement {
+    margin-bottom: 13px
+}
+
+body {
+    background-color: burlywood;
+}
+
+#submit {
+    margin-left: 290px;
+    margin-top: 13px;
+    border: 1.5px solid
+}
+
+textarea {
+    margin-left: 195px;
+}
+
+fieldset {
+    border: 1px solid #ff0000;
+    border-radius: 5px 15px
+}
+
+#name, #email, #number {
+    width: 5cm;
+    border: 1px solid white
+}
+
+#name-label, #email-label, #number-label {
+    font-size: 20px
+}
+
+#question {
+    font-size: 16px
+}
